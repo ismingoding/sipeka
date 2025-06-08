@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.login-container {
+    margin-top: 100px;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.btn-custom {
+    background-color: #186734;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #145a2d;
+}
+
+.text-green {
+    color: #186734;
+}
+
+.sitename {
+    font-weight: bold;
+    color: #186734;
+}
+

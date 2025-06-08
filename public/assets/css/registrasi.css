@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.register-container {
+    margin-top: 60px;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.btn-custom {
+    background-color: #186734;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #145a2d;
+}
+
+.text-primary-custom {
+    color: #186734;
+}
